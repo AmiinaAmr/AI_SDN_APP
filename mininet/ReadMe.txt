@@ -1,3 +1,9 @@
+
+open a terminal, navigate to the directory where the script is located, and execute the following command:
+
+mn --custom topology_script.py --topo mytopo --controller=remote
+
+
 Exp1 Adding flow in a sample topologie  manuellement
 ******************************************************
 
