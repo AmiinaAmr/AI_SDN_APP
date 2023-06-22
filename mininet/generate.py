@@ -102,7 +102,8 @@ def sendFlow(src, dst, **kwargs):
     "Add a flow with attributes between source and destination hosts."
     # Start iperf server on destination host
     server_cmd = "iperf -s "
-    server_cmd += "--"+kwargs["protocol_type"]
+    if kwargs["protocol_type"]=="udp":
+         server_cmd += " -u "
     server_cmd += " -p "
     server_cmd += "80"
     server_cmd += " -i "
@@ -113,7 +114,8 @@ def sendFlow(src, dst, **kwargs):
     # Start iperf client on source host to send traffic to the destination
     client_cmd = "iperf -c "
     client_cmd += dst.IP() + " "
-    client_cmd += "--"+kwargs["protocol_type"]
+    if kwargs["protocol_type"]=="udp":
+         client_cmd += " -u "
     client_cmd += " -p "
     client_cmd += "80"
     client_cmd += " -t "
