@@ -1,0 +1,110 @@
+------------------------------------------------------------
+Server listening on TCP port 5002
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+------------------------------------------------------------
+Server listening on TCP port 5002
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+------------------------------------------------------------
+Server listening on TCP port 5002
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+------------------------------------------------------------
+Server listening on TCP port 5002
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.2 port 5002 connected with 10.0.0.6 port 35614
+[  4] local 10.0.0.1 port 5001 connected with 10.0.0.3 port 41904
+[  5] local 10.0.0.2 port 5002 connected with 10.0.0.5 port 49392
+[  5] local 10.0.0.1 port 5001 connected with 10.0.0.4 port 49952
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-60.0 sec  50.9 GBytes  7.29 Gbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-60.0 sec  59.9 GBytes  8.57 Gbits/sec
+[  5]  0.0-60.0 sec  41.5 GBytes  5.94 Gbits/sec
+[  5]  0.0-60.0 sec  36.4 GBytes  5.21 Gbits/sec
+------------------------------------------------------------
+Server listening on TCP port 5002
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.1 port 5001 connected with 10.0.0.4 port 57484
+[  5] local 10.0.0.1 port 5001 connected with 10.0.0.3 port 43480
+[  4] local 10.0.0.2 port 5002 connected with 10.0.0.5 port 52652
+[  5] local 10.0.0.2 port 5002 connected with 10.0.0.6 port 48038
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-60.0 sec  11.3 GBytes  1.62 Gbits/sec
+[  5]  0.0-60.0 sec  64.4 GBytes  9.22 Gbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-60.0 sec  52.4 GBytes  7.50 Gbits/sec
+[  5]  0.0-60.0 sec  35.2 GBytes  5.04 Gbits/sec
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+------------------------------------------------------------
+Server listening on TCP port 5002
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.1 port 5001 connected with 10.0.0.3 port 44872
+[  4] local 10.0.0.2 port 5002 connected with 10.0.0.5 port 43606
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+------------------------------------------------------------
+Server listening on TCP port 5002
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+------------------------------------------------------------
+Server listening on TCP port 5002
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+------------------------------------------------------------
+Server listening on TCP port 5002
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+------------------------------------------------------------
+Server listening on TCP port 5002
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.1 port 5001 connected with 10.0.0.4 port 41790
+[  4] local 10.0.0.2 port 5002 connected with 10.0.0.5 port 36516
+[  5] local 10.0.0.1 port 5001 connected with 10.0.0.3 port 56136
+[  5] local 10.0.0.2 port 5002 connected with 10.0.0.6 port 37520
+------------------------------------------------------------
+Server listening on TCP port 5002
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
